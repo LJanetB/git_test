@@ -1,1 +1,2 @@
 "Hello Odin"
+"A little more practice makes one proficient" 
