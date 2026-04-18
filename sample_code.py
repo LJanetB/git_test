@@ -1,8 +1,11 @@
-def main ():
+def main():
     items = ["kettle", "rapper", "stove"]
-    for item in items:
-        if item.size >5:
-            item.strip()
-    print (items)
+
+    for i, item in enumerate(items):
+        if len(item) > 5:
+            items[i] = item[:5]
+
+    print(items)
+
 
 main()
