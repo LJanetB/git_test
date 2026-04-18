@@ -1,3 +1,5 @@
+
+# function to shorten items in a list to 5 characters if they are longer than 5 characters
 def main():
     items = ["kettle", "rapper", "stove"]
 
