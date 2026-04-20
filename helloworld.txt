@@ -1,2 +1,4 @@
 "Hello Odin"
 "A little more practice makes one proficient" 
+
+use (#) to add comment to your code.
